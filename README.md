@@ -19,7 +19,7 @@
 ## 🌟 Demonstração
 
 ### 💬 Interface do Chat
-![Chatbot Interface](img/screenshot-chat.png)
+![Chatbot Interface](frontend/img/screenshot-chat.png)
 
 ### ✨ **Funcionalidades Visuais**
 - 🤖 **Avatar personalizado da IA** (imagem da pasta `img/`)
@@ -166,8 +166,8 @@ chatbot-project/
 <table>
 <tr>
 <td align="center"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="100"><br><b>FastAPI</b><br><i>Framework web moderno</i></td>
-<td align="center"><img src="https://python-poetry.org/images/logo-origami.svg" width="100"><br><b>Python</b><br><i>Linguagem principal</i></td>
-<td align="center"><img src="https://groq.com/wp-content/uploads/2024/03/PBG-mark1-color.svg" width="100"><br><b>Groq</b><br><i>IA ultra-rápida</i></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100"><br><b>Python</b><br><i>Linguagem principal</i></td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="100"><br><b>Groq</b><br><i>IA ultra-rápida</i></td>
 </tr>
 </table>
 
