@@ -7,7 +7,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### 🎯 Um chatbot moderno e responsivo com IA de última geração
 *Interface elegante • Respostas instantâneas • Totalmente gratuito*
@@ -19,7 +19,7 @@
 ## 🌟 Demonstração
 
 ### 💬 Interface do Chat
-![Chatbot Interface](frontend/img/screenshot-chat.png)
+![Chatbot Interface](img/screenshot-chat.png)
 
 ### ✨ **Funcionalidades Visuais**
 - 🤖 **Avatar personalizado da IA** (imagem da pasta `img/`)
