@@ -176,7 +176,7 @@ chatbot-project/
 <tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100"><br><b>HTML5</b><br><i>Estrutura semântica</i></td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100"><br><b>CSS3</b><br><i>Estilos modernos</i></td>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="100"><br><b>JavaScript</b><br><i>Interatividade</i></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100"><br><b>Groq</b><br><i>IA ultra-rápida</i></td>
 </tr>
 </table>
 
