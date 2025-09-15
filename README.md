@@ -19,7 +19,7 @@
 ## 🌟 Demonstração
 
 ### 💬 Interface do Chat
-![Chatbot Interface](projeto-chatbot/frontend/img/screenshot-chat.png)
+![Chatbot Interface](projetodechatbot/frontend/img/screenshot-chat.png)
 
 ### ✨ **Funcionalidades Visuais**
 - 🤖 **Avatar personalizado da IA** (imagem da pasta `img/`)
